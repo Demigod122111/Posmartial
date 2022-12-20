@@ -1,2 +1,3 @@
-https://posmartial.netlify.app/pes1.ps
-https://posmartial.netlify.app/pes2.ps
+https://posmartial.netlify.app/PosmartialHolder.ps
+https://posmartial.netlify.app/PosmartialIcon.ps
+https://posmartial.netlify.app/PosmartialDescription.ps
